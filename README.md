@@ -11,7 +11,7 @@ Choose one of the instance type as per your need - (for free-tier choose t2.micr
 ## 3. Associate Elastic IP with the instance
 Instance created does not have fixed public IP. To associate the instance with a fixed public IP we use elastic IP. Connect your domain name with the generated elastic IP.  
 
-## 4. Connect with the instance created using AWS server or using command prompt using key-pair. Steps to connect to the instance using command prompt
+## 4. Connect with AWS EC2 instance using AWS server or using command prompt using key-pair. Steps to connect to an AWS EC2 instance using command prompt
 ```
 # Run the following command to change the directory with key-pair file exists
 cd C:\Users\YourUsername
